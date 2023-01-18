@@ -5,6 +5,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @FeignClient(name = "openai-client", url = "${openAIApi.url}")
-public interface OpenArxivClient {
+public interface ArxivClient {
 
 }
