@@ -94,7 +94,7 @@ Java:
 </dependency>
 ```
 
-Use the @EnableOpenAIAPI annotation in your main class
+Use the @EnableArxivAPI annotation in your main class
 
 ```java
 @EnableArxivClient
